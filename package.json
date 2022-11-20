@@ -15,7 +15,7 @@
   "author": "phixion",
   "license": "Apache-2.0",
   "dependencies": {
-    "chalk-animation": "^1.6.0",
+    "chalk-animation": "^2.0.3",
     "figlet": "^1.5.0",
     "ts-node-dev": "^1.0.0",
     "ts-node": "^9.0.0",
